@@ -4,7 +4,7 @@ Bienvenue sur la documentation de #APTIC!
 La documentation de #APTIC est organisée sous forme de sections:
 
 
-* :ref:`about-docs`
+* :ref:`apropos-docs`
 * :ref:`prerequisites-docs`
 * :ref:`install-docs`
 * :ref:`getting-started-docs`
@@ -18,13 +18,13 @@ La documentation de #APTIC est organisée sous forme de sections:
 * :ref:`appendix`
 
 
-.. _about-docs:
+.. _apropos-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: About
+   :caption: À propos
 
-   about-zammad
+   apropos-aptic
 
 
 .. _prerequisites-docs:
