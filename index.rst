@@ -2,7 +2,6 @@ Bienvenue sur la documentation de #APTIC!
 =========================================
 
 La documentation de #APTIC est organisée sous forme de sections:
-
 * :ref:`about-docs`
 * :ref:`prerequisites-docs`
 * :ref:`install-docs`
