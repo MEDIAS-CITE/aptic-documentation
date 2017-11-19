@@ -1,7 +1,7 @@
-Welcome to Zammad's documentation!
-==================================
+Bienvenue sur la documentation de #APTIC!
+=========================================
 
-The documentation for Zammad is organized into a couple of sections:
+La documentation de #APTIC est organisée sous forme de sections:
 
 * :ref:`about-docs`
 * :ref:`prerequisites-docs`
