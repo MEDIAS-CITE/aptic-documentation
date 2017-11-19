@@ -5,17 +5,12 @@ La documentation de #APTIC est organisée sous forme de sections:
 
 
 * :ref:`apropos-docs`
-* :ref:`prerequisites-docs`
-* :ref:`install-docs`
-* :ref:`getting-started-docs`
-* :ref:`migration-docs`
-* :ref:`general-docs`
-* :ref:`channels-docs`
-* :ref:`admin-webfrontend`
-* :ref:`admin-console`
-* :ref:`contributing-docs`
-* :ref:`rest-api-docs`
-* :ref:`appendix`
+* :ref:`commanditaires-docs`
+* :ref:`mednum-docs`
+* :ref:`beneficiaires-docs`
+* :ref:`deveniraptic-docs`
+* :ref:`opendata-docs`
+* :ref:`api-docs`
 
 
 .. _apropos-docs:
@@ -25,146 +20,25 @@ La documentation de #APTIC est organisée sous forme de sections:
    :caption: À propos
 
    apropos-aptic
-
-
-.. _prerequisites-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Prérequis
-
-   prerequisites-software
-   prerequisites-hardware
-
-
-.. _install-docs:
+   
+.. _commanditaires-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Installation & Mise à jour
+   :caption: Documentation commanditaires
 
-   install-source
-   install-centos
-   install-debian
-   install-ubuntu
-   install-suse
-   install-elasticsearch
-   install-docker-compose
-   install-update
+   commanditaire-aptic
 
 
-.. _getting-started-docs:
+.. _mednum-docs:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Démarrer
+   :caption: Documentation acteurs #mednum
 
-   getting-started-first-steps
-
-
-.. _migration-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Migration
-
-   migration-otrs
-   migration-zendesk
+   deveniraptic-doc
+   charteaptic-doc
+   CGU-doc
+   
 
 
-.. _general-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Général
-
-   general-ticket
-   general-search
-   general-glossary
-
-
-.. _channels-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Channels
-
-   channel-mail
-   channel-form
-   channel-chat
-   channel-twitter
-   channel-facebook
-   channel-telegram
-   channel-fetchmail
-
-
-.. _admin-webfrontend:
-
-.. toctree::
-   :maxdepth: 3
-   :glob:
-   :caption: Administration via webfrontend
-
-   admin-webfrontend-trigger
-   admin-webfrontend-security-thirdparty
-
-
-.. _admin-console:
-
-.. toctree::
-  :maxdepth: 2
-  :glob:
-  :caption: Administration via console
-
-  admin-console
-
-
-.. _contributing-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Contributing / Development
-
-   contributing-start
-   contributing-branches
-   contributing-packages
-   contributing-ci
-   contributing-code-quality
-   contributing-install-docker
-   contributing-install-vagrant
-
-
-.. _rest-api-docs:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: REST API
-
-   api-intro
-   api-user
-   api-organization
-   api-group
-   api-ticket
-   api-ticket-state
-   api-ticket-priority
-   api-ticket-article
-   api-notification
-   api-object
-   api-tags
-
-.. _appendix:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-   :caption: Appendix
-
-
-   appendix-backup-and-restore
-   appendix-configure-env-vars
-   appendix-repo-file
-   appendix-privacy
