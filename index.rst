@@ -31,7 +31,7 @@ La documentation de #APTIC est organisée sous forme de sections:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Prerequisites
+   :caption: Prérequis
 
    prerequisites-software
    prerequisites-hardware
@@ -41,7 +41,7 @@ La documentation de #APTIC est organisée sous forme de sections:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Installation & Update
+   :caption: Installation & Mise à jour
 
    install-source
    install-centos
@@ -57,7 +57,7 @@ La documentation de #APTIC est organisée sous forme de sections:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting started
+   :caption: Démarrer
 
    getting-started-first-steps
 
@@ -77,7 +77,7 @@ La documentation de #APTIC est organisée sous forme de sections:
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: General
+   :caption: Général
 
    general-ticket
    general-search
