@@ -1,5 +1,5 @@
-# #APTIC
-********
+#APTIC
+******
 
 Le chèque culture numérique pour tous, conçu sur le modèle des titres-restaurant, qui permet de payer totalement ou partiellement tous les services de médiation numérique.
 
